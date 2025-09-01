@@ -1,0 +1,5 @@
+## § 10 Dokumentation
+
+(1) Arzneimittel oder Arzneimittelgruppen, deren Verordnung nach dieser Richtlinie eingeschränkt oder ausgeschlossen ist (§ 16 und § 17), sind in der Übersicht über die Verordnungseinschränkungen und -ausschlüsse nach § 16 Absatz 3 zusammengestellt (Anlage III der Richtlinie). Soweit die Verordnung von Arzneimitteln oder bei Arzneimittelgruppen die Verordnung für einzelne Arzneimittel aufgrund der jeweils genannten Ausnahmetatbestände zulässig ist, ist die Therapieentscheidung nach den Vorgaben der Übersicht nach § 16 Absatz 3 zu dokumentieren. Soweit die behandelnde Ärztin oder der behandelnde Arzt ein Arzneimittel nach § 16 Absatz 5 ausnahmsweise in medizinisch begründeten Einzelfällen verordnet, ist die Begründung für diese Therapieentscheidung in der Patientenakte zu dokumentieren.  
+
+(2) Die Dokumentation erfolgt im Sinne von § 10 (Muster-)Berufsordnung für die deutschen Ärztinnen und Ärzte. Im Regelfall genügt die Angabe der Indikation und gegebenenfalls die Benennung der Ausschlusskriterien für die Anwendung wirtschaftlicher Therapiealternativen, soweit sich aus den Bestimmungen der Richtlinie nichts anderes ergibt.  

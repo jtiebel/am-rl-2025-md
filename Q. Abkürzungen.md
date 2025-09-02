@@ -1,0 +1,19 @@
+- **AMG** – Gesetz über den Verkehr mit Arzneimitteln (Arzneimittelgesetz)  
+- **AM-RL** – Arzneimittel-Richtlinie  
+- **AMVV** – Verordnung über die Verschreibungspflicht von Arzneimitteln (Arzneimittelverschreibungsverordnung)  
+- **ApoG** – Gesetz über das Apothekenwesen (Apothekengesetz)  
+- **BAnz.** – Bundesanzeiger  
+- **BGBl.** – Bundesgesetzblatt  
+- **BtMVV** – Verordnung über das Verschreiben, die Abgabe und den Nachweis des Verbleibs von Betäubungsmitteln (Betäubungsmittel-Verschreibungsverordnung)  
+- **EMA** – Europäische Arzneimittelagentur (European Medicines Agency)  
+- **Eudra-CT-Nr.** – European Union Drug Regulatory Authorities Clinical Trial Number  
+- **ggf.** – gegebenenfalls  
+- **GCP-Verordnung** – Verordnung über die Anwendung der guten klinischen Praxis bei der Durchführung von klinischen Prüfungen mit Arzneimitteln zur Anwendung am Menschen  
+- **GKV** – Gesetzliche Krankenversicherung  
+- **MPG** – Gesetz über Medizinprodukte (Medizinproduktegesetz)  
+- **OTC** – Over-the-Counter (syn. nicht verschreibungspflichtige Arzneimittel)  
+- **PZN** – Pharmazentralnummer  
+- **SGB V** – Fünftes Buch Sozialgesetzbuch – Gesetzliche Krankenversicherung  
+- **sog.** – sogenannt  
+- **UAW** – unerwünschte Arzneimittelwirkungen  
+- **WHO** – World Health Organisation  

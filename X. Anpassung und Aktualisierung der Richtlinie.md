@@ -1,1 +1,0 @@
-Die Arzneimittel-Richtlinie muss nach § 2 Absatz 1 Satz 3 SGB V dem allgemein anerkannten Stand der medizinischen Erkenntnisse entsprechen und deshalb in geeigneten Zeitabständen überprüft werden. 
